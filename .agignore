@@ -1,0 +1,6 @@
+vendor/
+thrift_gen/
+clients/
+idl/
+idls.go
+kite.go
